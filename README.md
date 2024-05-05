@@ -7,6 +7,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MmpxoLgPC7DfXudgiFWC2DoNU3fiJc7B/view?usp=drive_link](https://drive.google.com/file/d/1MmpxoLgPC7DfXudgiFWC2DoNU3fiJc7B/view?usp=drive_link)
 
+<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/614b7e249dbe1c69fad3a0f5_Analytics.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanshu-rathod-data-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-rathod-data-analyst" height="30" width="40" /></a>
