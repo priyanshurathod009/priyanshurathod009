@@ -1,13 +1,13 @@
 <h1 align="center">Heyyy 👋, I'm Priyanshu Rathod</h1>
 <h3 align="center">Data Mastery: Crafting Strategic Insights through Analysis</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/priyanshurathod009?tab=repositories](https://github.com/priyanshurathod009?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/priyanshurathod009?tab=repositories)
 
 - 📫 How to reach me **priyanshurathod009@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MmpxoLgPC7DfXudgiFWC2DoNU3fiJc7B/view?usp=drive_link](https://drive.google.com/file/d/1MmpxoLgPC7DfXudgiFWC2DoNU3fiJc7B/view?usp=drive_link)
 
-<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/614b7e249dbe1c69fad3a0f5_Analytics.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://miro.medium.com/v2/resize:fit:1400/0*1pGAt4nCKMDX0sLq.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanshu-rathod-data-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-rathod-data-analyst" height="30" width="40" /></a>
