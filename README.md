@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **priyanshurathod009@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MmpxoLgPC7DfXudgiFWC2DoNU3fiJc7B/view?usp=drive_link](https://drive.google.com/file/d/1MmpxoLgPC7DfXudgiFWC2DoNU3fiJc7B/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12DQiCUniGDICHsn8H6l5sauWPY0QT8Rj/view?usp=sharing)
 
 <img align="right" alt="Coding" width="400" height="300" src="https://miro.medium.com/v2/resize:fit:1400/0*1pGAt4nCKMDX0sLq.gif">
 <h3 align="left">Connect with me:</h3>
