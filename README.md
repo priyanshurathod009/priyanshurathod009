@@ -16,6 +16,7 @@ priyanshu! = {
     "tags": ["Adaptability ❤️", "Storytelling ⚡", "Curiosity 💡", "Attention to Detail 🙌"],
     "askMeAbout": ["Web Scraping", "Exploratory Data Analysis", "Power BI", "MySQL", "Statistical Analysis"],
     "reachMeOut": ["priyanshurathod009@gmail.com"],
+    "myWork": ["https://priyanshurathod009.github.io/Priyanshu-InsightX/"],
     "toFindMeUsername": "@priyanshurathod009"
 }
 ```
